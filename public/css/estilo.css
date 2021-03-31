@@ -1,0 +1,29 @@
+/* Important - set html + body height to 100% */
+
+html,
+body {
+  height: 100%;
+}
+
+/* Demo styling  */
+
+body {
+  background: #fcfcfc;
+  background: -webkit-linear-gradient(to right, #ffffff, #6cb8ff);
+  background: linear-gradient(to right, #ffffff, #61b3ff);
+}
+
+code {
+  color: #665;
+  background: #fff;
+  padding: 0.2rem;
+  border-radius: 0.2rem;
+}
+
+.txtb{
+    border-bottom: 0px solid #ffffff;
+    border-radius: 10px;
+    position: relative;
+    margin: 15px 0;
+}
+
